@@ -6,7 +6,7 @@
 
 ## Super Contador
 
-Projeto site Vamos Contar com javascript, criado no capítulo 16 no CursoemVideo.
+Projeto site Vamos Contar com javascript, criado no capítulo 14 no CursoemVideo.
 
 <br/>
 
