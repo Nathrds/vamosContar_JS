@@ -4,7 +4,7 @@
 <hr>
 <br/>
 
-## [Super Contador]()
+## Super Contador
 
 Projeto site Vamos Contar com javascript, criado no capítulo 16 no CursoemVideo.
 
@@ -13,12 +13,10 @@ Projeto site Vamos Contar com javascript, criado no capítulo 16 no CursoemVideo
 ## Tecnologias
 * HTML
 * CSS
-*JavaScript
+* JavaScript
 
 <br/>
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/106173624/218267036-3428d15b-08ad-4e4b-bad0-1e51842dc890.png)
 
-
-## QR Code - Projeto Mobile First
